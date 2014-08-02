@@ -65,6 +65,7 @@ setup(
         'License :: OSI Approved :: BSD License',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
+        'Development Status :: 1 - Planning',
     ],
     cmdclass={'test': Tox},
 )
