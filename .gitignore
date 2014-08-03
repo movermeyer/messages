@@ -7,3 +7,5 @@ env/
 *.egg-info
 *.pyc
 *.ser
+Gemfile
+Gemfile.lock
