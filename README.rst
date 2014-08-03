@@ -57,11 +57,11 @@ Ok... Where?
 .. _tornado: https://github.com/tornadoweb/tornado/
 .. _ZeroMQ: http://zeromq.org
 
-.. |Version| image:: https://badge.fury.io/py/messages.svg
-   :target: https://badge.fury.io/
-.. |Downloads| image:: https://pypip.in/d/messages/badge.svg
+.. |Version| image:: https://pypip.in/version/messages/badge.svg
    :target: https://pypi.python.org/pypi/messages
-.. |Status| image:: https://travis-ci.org/dave-shawley/messages.svg
+.. |Downloads| image:: https://pypip.in/download/messages/badge.svg
+   :target: https://pypi.python.org/pypi/messages
+.. |Status| image:: https://api.travis-ci.org/dave-shawley/messages.svg
    :target: https://travis-ci.org/dave-shawley/messages
-.. |License| image:: https://pypip.in/license/messages/badge.svg?
+.. |License| image:: https://pypip.in/license/messages/badge.svg
    :target: https://messages.readthedocs.org/
