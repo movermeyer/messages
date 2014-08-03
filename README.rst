@@ -59,7 +59,7 @@ Ok... Where?
 
 .. |Version| image:: https://badge.fury.io/py/messages.svg
    :target: https://badge.fury.io/
-.. |Downloads| image:: https://pypip.in/d/messages/badge.svg?
+.. |Downloads| image:: https://pypip.in/d/messages/badge.svg
    :target: https://pypi.python.org/pypi/messages
 .. |Status| image:: https://travis-ci.org/dave-shawley/messages.svg
    :target: https://travis-ci.org/dave-shawley/messages
